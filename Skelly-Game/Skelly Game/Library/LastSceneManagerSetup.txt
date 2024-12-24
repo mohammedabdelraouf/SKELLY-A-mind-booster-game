@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/How_To_Play_menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
